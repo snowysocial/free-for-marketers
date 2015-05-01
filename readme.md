@@ -17,6 +17,7 @@ You can help by sending pull requests to add more tools/services.
 ### AB Testing Tools
 ---
 * https://www.optimizely.com - Free plan. Basic Visitor Segmentation, Stats Engine.
+* https://vwo.com/ - Free trial - unlimited domains, unlimited campaigns, split url testing, A/B testing.
 
 ### Analytics
 ---
@@ -32,7 +33,14 @@ You can help by sending pull requests to add more tools/services.
 ### Keyword Finders
 ---
 * http://keywordtool.io/ - Free alternative to Google Keyword.
+* https://adwords.google.com/KeywordPlanner - Free tool from google to help adwords campaigns.
 
 ### Back link Checkers
 ---
 * http://www.backlinkwatch.com/ - Simple backlink checker.
+* https://monitorbacklinks.com/seo-tools/free-backlink-checker - Free backlink checker tool.
+* http://www.ranksignals.com/ - Free
+
+### Services that cover a lot of the above
+---
+* http://moz.com/tools
