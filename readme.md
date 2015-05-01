@@ -14,6 +14,7 @@ You can help by sending pull requests to add more tools/services.
 * http://www.buzzbundle.com/ - Free plan unlimited social profiles, blog posting, forum posting, 2 personas and more.
 
 ### Keyword Finders
-* http://keywordtool.io/ - Free alternative to Google Keyword
+* http://keywordtool.io/ - Free alternative to Google Keyword.
 
-### Bank link Checkers
+### Back link Checkers
+* http://www.backlinkwatch.com/ - Simple backlink checker.
