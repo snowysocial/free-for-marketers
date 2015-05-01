@@ -18,8 +18,6 @@ You can help by sending pull requests to add more tools/services.
 * https://www.optimizely.com - Free plan. Basic Visitor Segmentation, Stats Engine.
 
 ### Analytics
-
-cheekily taken form https://github.com/ripienaar/free-for-dev/blob/master/README.md#analytics-events-and--statistics
 ---
 * https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
 * https://google.com/analytics/ - Google Analytics
