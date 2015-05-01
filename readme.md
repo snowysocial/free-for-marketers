@@ -15,7 +15,19 @@ You can help by sending pull requests to add more tools/services.
 
 ### AB Testing Tools
 ---
-https://www.optimizely.com - Free plan. Basic Visitor Segmentation, Stats Engine.
+* https://www.optimizely.com - Free plan. Basic Visitor Segmentation, Stats Engine.
+
+### Analytics
+cheekily taken form https://github.com/ripienaar/free-for-dev/blob/master/README.md#analytics-events-and--statistics
+---
+* https://www.librato.com/ - Event/Data collection service with analysis and graphs. Limited plan for free.
+* https://google.com/analytics/ - Google Analytics
+* https://heapanalytics.com/ - Automatically captures every user action in iOS or web apps. Free for up to 5,000 visits per month.
+* http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
+* https://usabilityhub.com - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
+* https://gosquared.com - Track up to 1,000 data points for free.
+* https://mixpanel.com - Free 25000 points or 200000 with their badge on your site.
+* https://keen.io - Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
 
 ### Keyword Finders
 ---
