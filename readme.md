@@ -8,7 +8,7 @@ You can help by sending pull requests to add more tools/services.
 
 ### Social Media Tools
 ---
-* http://snowyapp.com/ - Free plan. 2 Social profiles, 1 Workspace, Suggested social content + lots more!
+* https://www.snowysocial.co.uk/ - Free plan. 2 Social profiles, 1 Workspace, Suggested social content + lots more!
 * https://hootsuite.com/ - Free plan that offers up to 3 social media accounts and some basic reporting.
 * http://sendible.com/ - 30 Day free trial. Engage with customers, Analyze data, Brand monitoring
 * http://sproutsocial.com/ - 30 Day free trial. CRM, Monitoring, Analytics, Publishing.
